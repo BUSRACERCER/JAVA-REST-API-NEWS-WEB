@@ -3,7 +3,7 @@
 <p> 
 In this project, the headers of HABERLER.COM address and the service of the href and src sections of the headers are written.
 
-JAVA, SPRING BOOT, POSTMAN, REST API, Jsoup technologies are used in the application.
+JAVA, SPRING BOOT, POSTMAN, REST API, JSOUP technologies are used in the application.
 </p>
 
 # Software Versions:
